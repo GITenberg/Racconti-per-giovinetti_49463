@@ -1,10 +1,16 @@
 _repo: Racconti-per-giovinetti_49463
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49463-h/images/cover.jpg
 creator:
   author:
     agent_name: Thouar, Pietro
     gutenberg_agent_id: '45350'
     url: http://www.gutenberg.org/2009/agents/45350
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49463#Racconti-per-giovinetti
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2015-07-17'
 gutenberg_type: Text
